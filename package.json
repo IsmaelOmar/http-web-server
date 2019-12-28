@@ -1,0 +1,22 @@
+{
+  "name": "http-web-server",
+  "version": "1.0.0",
+  "description": "A basic Http Web Server to develop websites",
+  "main": "app.js",
+  "bin":{
+    "http-web-server":"app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaelOmar/http-web-server.git"
+  },
+  "author": "Ismael Omar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/IsmaelOmar/http-web-server/issues"
+  },
+  "homepage": "https://github.com/IsmaelOmar/http-web-server#readme"
+}
